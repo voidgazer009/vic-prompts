@@ -7,3 +7,4 @@
 | 03 | [产品定价与落地页文案](03-offer-and-landing.md) | 为一人公司的产品或服务设计价格方案，并写出落地页文案。 |
 | 04 | [一人公司 CEO 周复盘](04-weekly-ceo-review.md) | 每周用 20 分钟复盘数据和精力，决定下周只做最重要的 3 件事。 |
 | 05 | [元提示词：提示词 / Skill 生成器](05-meta-prompt-builder.md) | 描述一个需求，让 AI 帮你写出 VICTORY 结构的专业提示词，或封装成 Agent Skill。 |
+| 06 | [AI 编程 MVP 蓝图与开工提示词](06-mvp-blueprint.md) | 把想法收缩成能按期上线的 MVP，并生成可直接交给 AI 编程工具的开工提示词。 |
