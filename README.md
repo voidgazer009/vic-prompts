@@ -71,6 +71,7 @@
 | 03 | [短视频脚本（60 秒）](social-media/03-short-video-script.md) | 把一个选题写成口播 / 剧情 / 教程类短视频脚本，带分镜和字幕。 |
 | 04 | [一稿多发：多平台改写](social-media/04-multi-platform-repurpose.md) | 把一篇内容改写成小红书、LinkedIn、X、公众号等不同平台的版本。 |
 | 05 | [评论区运营与私信转化](social-media/05-comment-to-dm.md) | 回复评论、引导私信，并把私信对话推进到成交或预约。 |
+| 06 | [爆款发布后复盘与迭代](social-media/06-post-review.md) | 用真实后台数据复盘近期内容，分类加推/改写/停止，并定出下周实验。 |
 
 ## 怎么用
 
