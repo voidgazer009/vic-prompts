@@ -51,6 +51,7 @@
 | 04 | [出口单证核对助手](logistics/04-document-checker.md) | 发货前核对发票、箱单、提单信息是否一致，减少扣货和改单费。 |
 | 05 | [物流获客：LinkedIn 私信与开发信](logistics/05-logistics-lead-gen.md) | 针对外贸工厂、跨境卖家等目标客户，写不招人烦的物流服务开发消息。 |
 | 06 | [货代账单核对与费用争议](logistics/06-freight-bill-checker.md) | 对照报价逐项核对货代账单，找出算错、重复和报价外费用，写出有依据的质询邮件。 |
+| 07 | [货损货差索赔材料与索赔函](logistics/07-cargo-claim.md) | 货物破损、短少或延误后，整理证据和时效，写出有依据的索赔函。 |
 
 ### 🤖 AI 一人公司 · One-Person Company
 
