@@ -40,6 +40,7 @@
 | 05 | [客户跟进序列（报价后不回复）](foreign-trade/05-follow-up-sequence.md) | 报价后客户失联，生成 4 封节奏递进、每封都有新价值的跟进邮件。 |
 | 06 | [尾款催收与账期风控](foreign-trade/06-payment-chaser.md) | 货已出运、尾款不到时，理清账龄与风险，判断控单与信保时机，写出分级催款邮件。 |
 | 07 | [出运单据一致性核对](foreign-trade/07-document-check.md) | 出运或交单前，交叉核对发票、装箱单、提单、合同的金额、数量、重量与信息，找出不符点。 |
+| 08 | [供应商报价统一口径比价](foreign-trade/08-supplier-quote-compare.md) | 多家供应商报价口径不一时，拉到同一口径，找出漏项与风险，给出谈判顺序和书面提问清单。 |
 
 ### 🚢 国际物流 · Global Logistics
 
