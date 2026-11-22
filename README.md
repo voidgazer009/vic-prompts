@@ -65,6 +65,7 @@
 | 05 | [元提示词：提示词 / Skill 生成器](one-person-company/05-meta-prompt-builder.md) | 描述一个需求，让 AI 帮你写出 VICTORY 结构的专业提示词，或封装成 Agent Skill。 |
 | 06 | [AI 编程 MVP 蓝图与开工提示词](one-person-company/06-mvp-blueprint.md) | 把想法收缩成能按期上线的 MVP，并生成可直接交给 AI 编程工具的开工提示词。 |
 | 07 | [Agent 上线前护栏与人工确认设计](one-person-company/07-agent-guardrails.md) | 排查自动化 Agent 的高风险动作，设定人工确认、停止条件与回滚方案。 |
+| 08 | [AI 工具栈盘点与精简](one-person-company/08-tool-stack-audit.md) | 盘点订阅的 AI 与软件，找出重复和闲置，给出保留、合并、停用建议。 |
 
 
 ### 📱 自媒体运营 · Social Media
